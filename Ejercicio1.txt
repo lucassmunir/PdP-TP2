@@ -1,0 +1,14 @@
+1. Generalización simbólica
+
+Las reglas escritas del lenguaje TypeScript se basan en las estructuras de la programación estructurada, donde el código se organiza en bloques secuenciales, condicionales (if, else, switch) y repetitivos (for, while).
+Además, TypeScript agrega reglas de tipado estático, lo que obliga a declarar el tipo de cada dato (string, number, boolean, etc.) y a respetar la compatibilidad entre tipos en asignaciones, parámetros y retornos de funciones.
+Otra regla importante es que todo el código debe estar correctamente definido dentro de funciones o módulos, evitando el uso de variables globales sin control.
+En resumen, el lenguaje define una estructura clara, controlada por tipos, y con sintaxis derivada de JavaScript pero más estricta.
+
+2. Creencias de los profesionales
+
+Los profesionales consideran que TypeScript mejora a JavaScript porque ofrece mayor seguridad y mantenibilidad.
+El tipado estático permite detectar errores antes de ejecutar el programa, lo que reduce fallos en tiempo de ejecución.
+Además, el autocompletado, las sugerencias y la documentación automática mejoran mucho la productividad.
+También se valora que TypeScript se compile a JavaScript, lo que permite usarlo en cualquier entorno web sin perder compatibilidad.
+En general, se cree que TypeScript ayuda a escribir código más limpio, escalable y fácil de entender que el JavaScript tradicional.
